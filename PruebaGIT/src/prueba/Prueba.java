@@ -7,6 +7,7 @@ public class Prueba {
 		System.out.println("primera modificación");
 		System.out.println("hago una modificación"); 
 		System.out.println("modificación de WS2");
+		System.out.println("modificación de WS1");
 	}
  
 }
