@@ -6,6 +6,7 @@ public class Prueba {
 		System.out.println("Prueba de GIT con Eclipse");
 		System.out.println("primera modificación");
 		System.out.println("hago una modificación"); 
+		System.out.println("modificación de WS2");
 	}
  
 }
